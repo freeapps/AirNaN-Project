@@ -21,7 +21,7 @@
 		<string>Icon114.png</string>
 	</array>
 	<key>CFBundleIdentifier</key>
-	<string>com.freeapps.airnan1</string>
+	<string>com.freeapps.airnan</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string></string>
 	<key>CFBundleName</key>
@@ -35,7 +35,7 @@
 	<key>CFBundleURLTypes</key>
 	<array/>
 	<key>CFBundleVersion</key>
-	<string>1.6</string>
+	<string>1.7</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.music</string>
 	<key>LSRequiresIPhoneOS</key>
